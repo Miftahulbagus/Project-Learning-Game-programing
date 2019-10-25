@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571113363 source:e:\10575\project tebak angka\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1571114646 source:h:\game programing\untuk di posting\project tebak angka\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
